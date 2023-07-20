@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a Python🐍 and AI🤖 enjoyer. <br />
-If you want to reach out, feel free to contact me on LinkedIn.
+If you want to reach out, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/darius-muntean/).
 <!--
 **Darius-ss10/Darius-ss10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
