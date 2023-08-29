@@ -2,7 +2,7 @@
     <img src="https://github.com/Darius-ss10/Darius-ss10/assets/79358316/6ddbdd18-5b2d-43b9-ba40-2ee2841a719d" alt="my banner"></a>
 </p>
 
-### Hi there 👋
+### Hi there, I'm Darius 👋
 
 I am a Python🐍 and AI🤖 enjoyer. <br />
 If you want to reach out, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/darius-muntean/).
