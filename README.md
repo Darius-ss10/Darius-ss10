@@ -9,8 +9,10 @@
 </h3>
 
 <h2 align="center">
-    I am a Python🐍 and AI🤖 enjoyer.!
+    I am a Python 🐍 and AI 🤖 enjoyer!
 </h2> 
+
+I'm a passionate computer scientist specializing in Artificial Intelligence, Big Data, Optimization, and Algorithms. With a zest for pushing the boundaries of technology, I'm on a mission to drive innovation and solve complex problems through cutting-edge AI solutions.
 
 ### 🤝 Connect with me:
 
