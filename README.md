@@ -4,8 +4,19 @@
 
 ### Hi there, I'm Darius 👋
 
-I am a Python🐍 and AI🤖 enjoyer. <br />
-If you want to reach out, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/darius-muntean/).
+<h3 align="center">
+    Hi there, I'm Darius 👋
+</h3>
+
+<h2 align="center">
+    I am a Python🐍 and AI🤖 enjoyer.!
+</h2> 
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/darius-muntean/"><img align="left" src="https://raw.githubusercontent.com/Darius-ss10/Darius-ss10/main/images/linkedin.svg" alt="Darius Muntean | LinkedIn" width="21px"/></a>
+
+<!--If you want to reach out, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/darius-muntean/).-->
 <!--
 **Darius-ss10/Darius-ss10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
