@@ -16,8 +16,9 @@ I'm a passionate computer scientist specializing in Artificial Intelligence, Big
 
 <a href="https://www.linkedin.com/in/darius-muntean/"><img align="left" src="https://raw.githubusercontent.com/Darius-ss10/Darius-ss10/main/images/linkedin.svg" alt="Darius Muntean | LinkedIn" width="21px"/></a>
 </br>
+</br>
 
-## 💼 Technical Skills
+## 💼 Technical Skills:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
