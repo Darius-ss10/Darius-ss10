@@ -40,6 +40,9 @@ I'm a passionate computer scientist specializing in Artificial Intelligence, Big
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darius-ss10&layout=compact)](https://github.com/Darius-ss10)
 
 <!--If you want to reach out, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/darius-muntean/).-->
 <!--
